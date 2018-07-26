@@ -1,0 +1,3 @@
+<manifest>
+<project path="device/nokia/NB1" name="dg28gadhavi/android_device_nokia_NB1" remote="github" revision="android-8.1"/>
+</manifest>
